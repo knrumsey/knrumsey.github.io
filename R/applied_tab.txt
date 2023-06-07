@@ -1,0 +1,44 @@
+<table>
+    	<tr>
+    	<th>Year</th>
+    	<th>Venue</th>
+    	<th>Citation</th>
+    	<th>Link</th>
+	</tr>
+	<tr>
+	<td> 2023 </td>
+ 	<td> AWWA Water Science </td>
+ 	<td> Scruggs, C. E., Heyne, C. M. & Rumsey, K. N. (2023). Understanding questions and concerns about potable water reuse: An analysis of survey write-in responses. AWWA Water Science </td>
+ 	<td><a href=" https://awwa.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aws2.1333 "><i class="material-icons">link</i> </a></td>
+ 	</tr>
+	<tr>
+	<td> 2023 </td>
+ 	<td> Microorganisms </td>
+ 	<td> Carroll-Portillo, A., Rumsey, K. N., Braun, C. A., Lin, D. M., Coffman, C. N., Alcock, J. A., ... & Lin, H. C. (2023). Mucin and Agitation Shape Predation of Escherichia coli by Lytic Coliphage. Microorganisms, 11(2), 508 </td>
+ 	<td><a href=" https://www.mdpi.com/2076-2607/11/2/508 "><i class="material-icons">link</i> </a></td>
+ 	</tr>
+	<tr>
+	<td> 2021 </td>
+ 	<td> American Water Works Association </td>
+ 	<td> Distler, L. N., Scruggs, C. E., Cruz, M. P., & Rumsey, K. N. (2021). Public Engagement on Water Reuse Beyond Community Surveys. Journal: American Water Works Association, 113(4). </td>
+ 	<td><a href=" https://awwa.onlinelibrary.wiley.com/doi/pdf/10.1002/awwa.1710 "><i class="material-icons">link</i> </a></td>
+ 	</tr>
+	<tr>
+	<td> 2021 </td>
+ 	<td> Dermatology Online </td>
+ 	<td> Lin, J., Rumsey, K., Stepenaskie, S., & Durkin, J. R. (2021). Dermatologists are more likely than oncologists to prescribe skin-directed therapies for early-stage cutaneous T-cell lymphoma: a retrospective review. Dermatology Online Journal, 27(10). </td>
+ 	<td><a href="  "><i class="material-icons">link</i> </a></td>
+ 	</tr>
+	<tr>
+	<td> 2021 </td>
+ 	<td> Journal of Planning Education and Research </td>
+ 	<td> Scruggs, C. E., Lozoya, S., Rumsey, K. N., Bronson, K., & Chavez, P. (2021). Voluntary Public Campaigns to Benefit the Environment: Assessing the Effectiveness of the There Is No Poop Fairy Campaign. Journal of Planning Education and Research, 0739456X2110 </td>
+ 	<td><a href=" https://par.nsf.gov/servlets/purl/10298261 "><i class="material-icons">link</i> </a></td>
+ 	</tr>
+	<tr>
+	<td> 2020 </td>
+ 	<td> Journal of Water Resources Planning and Management </td>
+ 	<td> Distler, L. N., Scruggs, C. E., & Rumsey, K. N. (2020). Arid inland community survey on water knowledge, trust, and potable reuse. II: Predictive modeling. Journal of Water Resources Planning and Management, 146(7). </td>
+ 	<td><a href=" https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29WR.1943-5452.0001219 "><i class="material-icons">link</i> </a></td>
+ 	</tr>
+</table>
