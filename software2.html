@@ -3,23 +3,6 @@
 
 <head>
 
-    <style>
-        /* Style for the image grid */
-        .image-grid {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 10px;
-        }
-        /* Style for the square images */
-        .image-grid img {
-            width: 500px;
-            height: 500px;
-            object-fit: cover;
-            border: 1px solid #ccc;
-        }
-    </style>
-
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -100,43 +83,27 @@
 
     <!-- Main Content -->
     <div class="container">
-    <div class="image-grid">
-        <!-- First Image -->
-        <a href="https://github.com/knrumsey/duqling" target="_blank">
-            <img src="img/DUQLING.png" alt="DUQLING">
-        </a>
-        
-        <!-- Second Image -->
-        <a href="https://github.com/knrumsey/GBASS" target="_blank">
-            <img src="img/GBASS.png" alt="GBASS">
-        </a>
-        
-        <!-- Third Image -->
-        <a href="https://github.com/knrumsey/concordance" target="_blank">
-            <img src="img/CONCORDANCE.png" alt="CONCORDANCE">
-        </a>
-        
-        <!-- Fourth Image -->
-        <a href="https://github.com/knrumsey/leapgp" target="_blank">
-            <img src="img/LEAPGP.png" alt="LEAPGP">
-        </a>
-        
-        <!-- Fifth Image -->
-        <a href="https://github.com/knrumsey/quack" target="_blank">
-            <img src="img/QUACK.png" alt="QUACK">
-        </a>
-        
-        <!-- Sixth Image -->
-        <a href="https://github.com/lanl/BASS" target="_blank">
-            <img src="img/BASS.png" alt="BASS">
-        </a>
-        
-        <!-- Seventh Image -->
-        <a href="https://github.com/knrumsey/PRISM" target="_blank">
-            <img src="img/PRISM.png" alt="PRISM">
-        </a>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+
+		<header>
+			<h3> Software </h3>
+			<p style="font-size: 12px"> <a href="https://github.com/knrumsey/duqling">duqling:</a> (Author) An R package to facilitate reproducible UQ research. Contains a large number of popular UQ test functions and tools for reproducible simulation studies. </p>
+			<p style="font-size: 12px"> <a href="https://github.com/knrumsey/concordance">concordance:</a> (Author) An R package for performing concordance analyses and the discovery of active subspaces for high dimensional computer models. </p>
+			<p style="font-size: 12px"> <a href="https://github.com/knrumsey/leapgp">leapgp:</a> (Author) A localized ensemble of approximate GPs. An R package for performing fast sequential emulation of computer models. </p>
+			<p style="font-size: 12px"> <a href="https://github.com/lanl/PRISM">PRISM.jl:</a> (Contributor) The Programming Repository for In Situ Modeling (PRISM) is a set of tools for fitting statistics and machine learning models to simulation data inside the simulations as they are running. </p>
+			<p style="font-size: 12px"> <a href="https://github.com/lanl/BASS">BASS:</a> (Contributor) BASS is an R package for fitting Bayesian Adaptive Spline Surface models available on CRAN with a development version available on GitHub. BASS models most closely resemble Bayesian multivariate adaptive regression splines (Bayesian MARS).</p>
+			<p style="font-size: 12px"> <a href="https://github.com/knrumsey-lanl/GBASS">GBASS:</a> (Author) GBASS (Generalized Bayesian Additive Spline Surface) is an R package for fitting BASS models with flexible likelihoods including the (t), (Horseshoe), Asymmetric Laplace (for quantile regression) and Normal-Wald likelihoods. </p> 
+			<p style="font-size: 12px"> <a href="https://github.com/knrumsey/quack">quack:</a> (Author) The quack R package contains several tools for UQ and Bayesian model calibration, with an emphasis on inference for physical parameters in complex physical systems. </p>
+		</header>
+		<br>
+
+
+            </div>
+        </div>
     </div>
-    </div>
+
     <hr>
     <!-- Footer -->
         <footer>
