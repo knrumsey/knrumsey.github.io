@@ -10,15 +10,27 @@
             grid-template-columns: repeat(2, 1fr);
             gap: 10px;
         }
+
         /* Style for the square images */
+        .image-grid a {
+            display: block;
+            width: 100%;
+        }
+
         .image-grid img {
-            width: 500px;
-            height: 500px;
+            width: 100%;
+            height: auto;
             object-fit: cover;
             border: 1px solid #ccc;
         }
-    </style>
 
+        /* Media Query for mobile devices */
+        @media (max-width: 768px) {
+            .image-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
